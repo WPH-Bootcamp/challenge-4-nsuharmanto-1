@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "name": "Roberto Carlos",
+    "class": "9A",
+    "grades": {
+      "Matematika": 85
+    }
+  },
+  {
+    "id": "2",
+    "name": "Zinedine Zidane",
+    "class": "9C",
+    "grades": {
+      "Matematika": 95
+    }
+  },
+  {
+    "id": "3",
+    "name": "Franz Backenbauer",
+    "class": "8A",
+    "grades": {
+      "Kimia": 89,
+      "Matematika": 87
+    }
+  },
+  {
+    "id": "4",
+    "name": "Maldini",
+    "class": "8C",
+    "grades": {
+      "Bahasa Inggris": 78
+    }
+  },
+  {
+    "id": "5",
+    "name": "Maradona",
+    "class": "9B",
+    "grades": {
+      "Biologi": 82,
+      "Bahasa Inggris": 91
+    }
+  }
+]

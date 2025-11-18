@@ -18,11 +18,10 @@ pids
 .node_repl_history
 
 # Data files (jika menggunakan file persistence)
-data/*.json
+#data/*.json
 !data/.gitkeep
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -31,3 +30,8 @@ data/*.json
 # OS
 .DS_Store
 Thumbs.db
+config.bat
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
