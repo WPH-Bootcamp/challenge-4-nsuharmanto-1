@@ -1,0 +1,43 @@
+=== LAPORAN SISWA ===
+ID: 1
+Nama: Roberto Carlos
+Kelas: 9A
+Mata Pelajaran:
+  - Matematika: 85
+Rata-rata: 85.00
+Status: Lulus
+------------------------
+ID: 2
+Nama: Zinedine Zidane
+Kelas: 9C
+Mata Pelajaran:
+  - Matematika: 95
+Rata-rata: 95.00
+Status: Lulus
+------------------------
+ID: 3
+Nama: Franz Backenbauer
+Kelas: 8A
+Mata Pelajaran:
+  - Kimia: 89
+  - Matematika: 87
+Rata-rata: 88.00
+Status: Lulus
+------------------------
+ID: 4
+Nama: Maldini
+Kelas: 8C
+Mata Pelajaran:
+  - Bahasa Inggris: 78
+Rata-rata: 78.00
+Status: Lulus
+------------------------
+ID: 5
+Nama: Maradona
+Kelas: 9B
+Mata Pelajaran:
+  - Biologi: 82
+  - Bahasa Inggris: 91
+Rata-rata: 86.50
+Status: Lulus
+------------------------
