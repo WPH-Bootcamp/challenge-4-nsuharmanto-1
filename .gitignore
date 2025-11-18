@@ -18,7 +18,7 @@ pids
 .node_repl_history
 
 # Data files (jika menggunakan file persistence)
-data/*.json
+#data/*.json
 !data/.gitkeep
 
 # IDE

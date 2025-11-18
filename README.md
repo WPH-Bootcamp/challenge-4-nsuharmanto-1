@@ -113,6 +113,7 @@ Rata-rata: 87.67
 Status: Lulus
 ------------------------
 ```
+![Contoh Output](./screenshot.png)
 
 ## Cara Mengerjakan
 
